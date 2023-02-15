@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Published in npj：Interpretable machine learning for maximum corrosion depth and influence factor analysis
+date: 2023-12-02
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to Song for Publishing their paper “Interpretable machine learning for maximum corrosion depth and influence factor analysis”.
 
 <!--more-->
 
