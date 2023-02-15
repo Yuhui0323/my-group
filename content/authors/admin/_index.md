@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qinying Wang
+title:王勤英
 
 # Is this the primary user of the site?
 superuser: true
