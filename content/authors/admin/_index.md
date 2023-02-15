@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qinying Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of materials
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: SWPU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
