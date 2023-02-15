@@ -4,7 +4,7 @@ title: 张兴寿
 
 # Username (this should match the folder name)
 authors:
-  - 张兴寿
+  - 吳恩達
 
 # Is this the primary user of the site?
 superuser: false
