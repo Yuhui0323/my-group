@@ -14,7 +14,7 @@ role: doctor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: SWPU
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -67,7 +67,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+  
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
