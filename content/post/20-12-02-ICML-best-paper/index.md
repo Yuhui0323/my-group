@@ -1,7 +1,8 @@
 ---
 title: Published in npj：Interpretable machine learning for maximum corrosion depth and influence factor analysis
 date: 2023-12-02
-
+image:
+  focal_point: 'top'
 ---
 
 Congratulations to Song for Publishing their paper “Interpretable machine learning for maximum corrosion depth and influence factor analysis”.
