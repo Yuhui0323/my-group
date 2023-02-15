@@ -5,7 +5,7 @@ headless: true
 weight: 20
 
 title: Latest News
-subtitle:
+subtitle: 最近新闻
 
 content:
   count: 5
